@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloWorld", "00_HelloWorld
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Operators", "03_Operators\Operators.csproj", "{4C16DBF9-EC6A-420A-9449-7E5CCD74102F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Strings", "04_Strings\Strings.csproj", "{E57E170B-0140-4587-B5B4-D760F0A4A95A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -24,5 +26,9 @@ Global
 		{4C16DBF9-EC6A-420A-9449-7E5CCD74102F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4C16DBF9-EC6A-420A-9449-7E5CCD74102F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4C16DBF9-EC6A-420A-9449-7E5CCD74102F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E57E170B-0140-4587-B5B4-D760F0A4A95A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E57E170B-0140-4587-B5B4-D760F0A4A95A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E57E170B-0140-4587-B5B4-D760F0A4A95A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E57E170B-0140-4587-B5B4-D760F0A4A95A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
