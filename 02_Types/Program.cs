@@ -12,3 +12,5 @@ Console.WriteLine("Balance: " + accountBalance);
 
 float averageHeight = 5.7f;
 Console.WriteLine("Height " + averageHeight);
+// HA HA I am above the average height!!
+
