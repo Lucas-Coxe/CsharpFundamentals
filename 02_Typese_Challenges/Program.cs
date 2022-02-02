@@ -42,9 +42,9 @@ Console.WriteLine(words + " " + integer);
 
 
 //gold
-
-
-string year = "2022";
+Console.WriteLine("What year is it? ");
+string year1 = Console.ReadLine();
+string year = year1;
 int yearNum = int.Parse(year);
 Console.WriteLine(yearNum);
 
