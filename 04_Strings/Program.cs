@@ -16,3 +16,9 @@ Console.WriteLine(compositeResult);
 string interpolationResult = $"His name is still {firstName} {lastName}! ";
 Console.WriteLine(interpolationResult);
 
+Console.WriteLine(firstName + " " + lastName);
+
+
+bool value = false;
+
+Console.WriteLine(value);
